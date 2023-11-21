@@ -1,0 +1,21 @@
+.profile-image {
+  border-radius: 20px;
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.para {
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: lightslategray;
+}
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

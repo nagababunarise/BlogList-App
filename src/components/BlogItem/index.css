@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.blog-container {
+  padding: 5px;
+  list-style-type: none;
+}
+
+.blog-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.para {
+  color: lightslategray;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.date-card {
+  color: lightslategray;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: auto;
+}
